@@ -1,4 +1,3 @@
-# Gold-Price-Prediction
 # Gold\_Price\_Prediction
 
 ![Shape1](RackMultipart20230410-1-7thuuw_html_237499165a11f2b9.gif)
