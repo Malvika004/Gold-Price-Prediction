@@ -1,9 +1,9 @@
-Gold\_Price\_Prediction
+# Gold\_Price\_Prediction
 
 -----
 The aim of this project is to predict the prices of gold using a dataset from kaggle and Machine Learning.
 
-Libraries used:-
+# Libraries used:-
 
 -----
 - **Numpy**
@@ -72,7 +72,7 @@ Matplotlib.pyplot is a collection of functions that make matplotlib work like MA
 
 Seaborn is a library for making statistical graphics in Python. It builds on top of matplotlib and integrates closely with pandas data structures.It helps you explore and understand your data. Its plotting functions operate on dataframes and arrays containing whole datasets and internally perform the necessary semantic mapping and statistical aggregation to produce informative plots.
 
-Algorithm used:-
+# Algorithm used:-
 
 -----
 - ` `**Random Forest Regression**
@@ -87,7 +87,7 @@ Algorithm used:-
 
 Random Forest Regression is a supervised learning algorithm that uses ensemble learning methods for regression. Ensemble learning method is a technique that combines predictions from multiple machine learning algorithms to make a more accurate prediction than a single model.
 
-Data Analysis:-
+# Data Analysis:-
 
 -----
 - Heat Map based on correlation between various features
@@ -102,7 +102,7 @@ Dark Blue boxes- represents Positive Correlation
 
 ![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.014.png)
 
-Model Analysis:-
+# Model Analysis:-
 
 -----
 - Based on test data
