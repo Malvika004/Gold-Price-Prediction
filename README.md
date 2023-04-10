@@ -1,20 +1,18 @@
-# Gold\_Price\_Prediction
+Gold\_Price\_Prediction
 
-![Shape1](RackMultipart20230410-1-7thuuw_html_237499165a11f2b9.gif)
-
+-----
 The aim of this project is to predict the prices of gold using a dataset from kaggle and Machine Learning.
 
-## Libraries used:-
+Libraries used:-
 
-![Shape2](RackMultipart20230410-1-7thuuw_html_237499165a11f2b9.gif)
-
+-----
 - **Numpy**
 
-![](RackMultipart20230410-1-7thuuw_html_bd0cdeea9a661aff.png)
+![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.001.png)
 
 **Importing Numpy Library**
 
-![](RackMultipart20230410-1-7thuuw_html_5eabefafac285432.png)
+![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.002.png)
 
 **About Numpy**
 
@@ -22,23 +20,23 @@ Numpy is a library for the Python programming language, adding support for large
 
 - **Pandas**
 
-![](RackMultipart20230410-1-7thuuw_html_31e14a1bd3b1496c.png)
+![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.003.png)
 
 **Importing Pandas Library**
 
-![](RackMultipart20230410-1-7thuuw_html_75c37c571127bc8e.png)
+![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.004.png)
 
 **About Pandas**
 
-Pandas is a Python package providing fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real-world data analysis in Python.
+Pandas is a Python package providing fast, flexible, and expressive data structures designed to make working with “relational” or “labeled” data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real-world data analysis in Python.
 
 - **Sklearn**
 
-![](RackMultipart20230410-1-7thuuw_html_1e9cc9d7e982f680.png)
+![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.005.png)
 
 **Importing Sklearn**
 
-![](RackMultipart20230410-1-7thuuw_html_182f629e00660b17.png)
+![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.006.png)
 
 **About Sklearn**
 
@@ -46,16 +44,17 @@ Scikit-learn (Sklearn) is the most useful and robust library for machine learnin
 
 **Different functions imported from Sklearn:-**
 
-- **train\_test\_split-** Using [train\_test\_split()](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html) from the data science library [scikit-learn](https://scikit-learn.org/stable/index.html), you can split your dataset into subsets that minimize the potential for bias in your evaluation and validation process.
+- **train\_test\_split-** Using [train_test_split()](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html) from the data science library [scikit-learn](https://scikit-learn.org/stable/index.html), you can split your dataset into subsets that minimize the potential for bias in your evaluation and validation process.
 - **metrics-** This module implements several loss, score, and utility functions to measure classification performance. Some metrics might require probability estimates of the positive class, confidence values, or binary decisions values.
+
 
 - **Matplolib.pyplot**
 
-![](RackMultipart20230410-1-7thuuw_html_e446b6319321598e.png)
+![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.007.png)
 
 **Importing Matplotlib.pyplot**
 
-![](RackMultipart20230410-1-7thuuw_html_3bf2129b24ab13f4.png)
+![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.008.png)
 
 **About Matplotlib.pyplot**
 
@@ -63,60 +62,56 @@ Matplotlib.pyplot is a collection of functions that make matplotlib work like MA
 
 - **Seaborn**
 
-![](RackMultipart20230410-1-7thuuw_html_944e1729c7f112ab.png)
+![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.009.png)
 
-**Importing Seaborn**
+**Importing Seaborn** 
 
-![](RackMultipart20230410-1-7thuuw_html_6488fde5ad9e3fff.png)
+![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.010.png)
 
 **About Seaborn**
 
 Seaborn is a library for making statistical graphics in Python. It builds on top of matplotlib and integrates closely with pandas data structures.It helps you explore and understand your data. Its plotting functions operate on dataframes and arrays containing whole datasets and internally perform the necessary semantic mapping and statistical aggregation to produce informative plots.
 
-## Algorithm used:-
+Algorithm used:-
 
-![Shape3](RackMultipart20230410-1-7thuuw_html_237499165a11f2b9.gif)
+-----
+- ` `**Random Forest Regression**
 
-- **Random Forest Regression**
+![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.011.png)
 
-![](RackMultipart20230410-1-7thuuw_html_8c012374cf1ff34d.png)
+**Importing  Random Forest Regressor**
 
-**Importing Random Forest Regressor**
-
-![](RackMultipart20230410-1-7thuuw_html_2920f649b2dcc49c.png)
+![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.012.png)
 
 **About**
 
 Random Forest Regression is a supervised learning algorithm that uses ensemble learning methods for regression. Ensemble learning method is a technique that combines predictions from multiple machine learning algorithms to make a more accurate prediction than a single model.
 
-## Data Analysis:-
+Data Analysis:-
 
-![Shape4](RackMultipart20230410-1-7thuuw_html_237499165a11f2b9.gif)
-
+-----
 - Heat Map based on correlation between various features
 
 White boxes- represents Negative Correlation
 
 Dark Blue boxes- represents Positive Correlation
 
-![](RackMultipart20230410-1-7thuuw_html_b7d6206e01e65cde.png)
+![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.013.png)
 
 - Density v/s Gold Graph
 
-![](RackMultipart20230410-1-7thuuw_html_bb3ebfddf7ac7846.png)
+![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.014.png)
 
-## Model Analysis:-
+Model Analysis:-
 
-![Shape5](RackMultipart20230410-1-7thuuw_html_237499165a11f2b9.gif)
-
+-----
 - Based on test data
 
-![](RackMultipart20230410-1-7thuuw_html_661c5daf31d4c7ae.png)
+![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.015.png)
 
-![](RackMultipart20230410-1-7thuuw_html_73130b385b1ec358.png)
+![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.016.png)
 
-## The investment for a lifetime.
+The investment for a lifetime.
 
-![Shape6](RackMultipart20230410-1-7thuuw_html_237499165a11f2b9.gif)
-
-![](RackMultipart20230410-1-7thuuw_html_a4f53928e33987dc.png)
+-----
+![](Aspose.Words.bb6942fc-55c5-4e65-a136-913b7d17ccd9.017.png)
